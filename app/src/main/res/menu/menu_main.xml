@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sayyam.eventmaster.activity.MainActivity">
+    <item
+        android:id="@+id/facebook"
+        android:icon="@drawable/facebook"
+        android:orderInCategory="100"
+        android:title="Facebook"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/twitter"
+        android:icon="@drawable/twitter"
+        android:orderInCategory="100"
+        android:title="Twitter"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/heart_outline"
+        android:orderInCategory="100"
+        android:title="Favorite"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/favoritesSelected"
+        android:icon="@drawable/heart_filled"
+        android:orderInCategory="100"
+        android:title="Unfavorite"
+        app:showAsAction="always" />
+</menu>

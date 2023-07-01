@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">EventMaster</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="searchC">SEARCH</string>
+    <string name="favoritesC">FAVORITES</string>
+    <string name="detailsC">DETAILS</string>
+    <string name="artistC">ARTIST(S)</string>
+    <string name="venueC">VENUE</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="enter_the_keyword">Enter the Keyword</string>
+    <string name="enter_the_distance">Enter the Distance</string>
+    <string name="enter_the_location">Enter the Location</string>
+    <string name="keyword">Keyword*</string>
+    <string name="distance_miles">Distance (Miles)*</string>
+    <string name="location">Location*</string>
+    <string name="auto_detect">Auto-Detect</string>
+    <string name="clear">Clear</string>
+    <string name="error_message">Please fill all fields</string>
+    <string name="location_error">Please turn on your location!</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="fetching_locatino">Fetching location...</string>
+    <string name="back_to_search">Back to Search</string>
+    <string name="google_maps_key">AIzaSyDVHeZZ5_YxftpcoPiPhHxYQ6vpTxuelCw</string>
+    <string name="no_favorites_available">No favorites available</string>
+    <string-array name="category_array">
+        <item>All</item>
+        <item>Music</item>
+        <item>Sports</item>
+        <item>Arts &amp; Theatre</item>
+        <item>Film</item>
+        <item>Miscellaneous</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
